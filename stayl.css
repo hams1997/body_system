@@ -1,0 +1,22 @@
+h1
+{
+   color:pink;
+   text-align :center;
+   background-color:blue; text-align:center;
+}
+a
+{
+   text-decoration:none;
+}
+footer
+{
+   background-color: rgb(224, 167, 167);text-align:center;}
+li
+{
+   display:inline-block;padding: 4px; }
+body
+{
+  background-color: #C8C8C8;
+  background-color:brown;}
+ section
+ {color:black;}
